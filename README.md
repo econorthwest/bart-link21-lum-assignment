@@ -1,4 +1,6 @@
-# BART Link21 Land Use Model Work-In-Progress Assignment Code
+# BART Link21 Land Use Model Headship and Assignment
+
+This repository contains work-in-progress code for the headship model and assignment step (location choice models) used in the Link21 Land Use Model.
 
 ## Useful links
 
