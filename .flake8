@@ -1,0 +1,4 @@
+[flake8]
+ignore = E501,W503
+; exclude = migrations,.terraform
+max-line-length = 100
